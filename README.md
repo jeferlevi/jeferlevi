@@ -1,5 +1,14 @@
 ### Hi there 👋
+<br>
+<h1>Sou Jeferson Levi</h1>
+<p><i>Iniciando aqui no github e estudante do devclub com Rodolfo Mori meu mentor</i></p>
+<h2>Desenvolvedor iniciando em</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+[![jeferlevi](https://github-readme-stats.vercel.app/api?username=jeferlevi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![jeferlevi](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferlevi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jeferlevi/jeferlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
